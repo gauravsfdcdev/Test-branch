@@ -6,3 +6,7 @@ console.log("i am second");
 function newFeatureAdd(){
     console.log('this is feature branch cod');
 }
+//add feature function comments for feature branch 
+function newFeatureAdd(){
+    console.log('this is feature branch three cod');
+}
