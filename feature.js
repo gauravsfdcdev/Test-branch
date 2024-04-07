@@ -6,3 +6,6 @@ console.log('amans changes in theri branches');
 console.log('amans changes in theri branches');
 console.log('amans changes in theri another commit only ');
 
+const c = 40;
+
+console.log(c);
